@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "oozAtDM7zyQcNmoi1MF0HNECXBk=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "cdedf21e585dae942951e34d6defc3215b4280fa",
+			"revisionTime": "2017-12-10T03:53:53Z"
+		}
+	],
+	"rootPath": "gochat"
+}

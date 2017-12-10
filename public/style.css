@@ -1,0 +1,39 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+#chat-messages {
+	min-height: 10vh;
+	height: 40vh;
+	width: 100%;
+	overflow-y: scroll;
+}
+
+.horizontal {
+	box-shadow: none;
+	border: 1px solid #efefef;
+}
+
+nav {
+	box-shadow: none;
+	background: transparent;
+}
+
+nav .brand-logo {
+	color: #5b5b5b;
+}
+
+.card-content {
+	border-radius: 0;
+}
+
+.nav-wrapper {
+	padding-left: 20px;
+	padding-right: 20px;
+}
